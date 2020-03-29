@@ -1,1 +1,1 @@
-# Senior-Proejct
+# Senior-Project
